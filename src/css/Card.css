@@ -1,0 +1,41 @@
+.project-card {
+    
+  
+    width: 400px;
+    height: 600px;
+
+
+}
+
+.card-title {
+    font-size: 1.5rem;
+
+}
+.card-description {
+    font-size: 1rem;
+    text-align: left;
+    padding: 5%;
+
+}
+.card-img {
+    width: 400px;
+    height:250px;
+}
+
+
+@media (max-width: 767px) {
+
+.project-card {
+    
+   
+    width: 320px;
+    height: 650px;
+
+}
+
+.card-img {
+    width: 320px;
+    height:250px;
+}
+
+}
