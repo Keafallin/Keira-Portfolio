@@ -17,3 +17,6 @@ npm i framer-motion
 
 Router
 npm i react-router-dom
+
+GitHub Pages
+npm install gh-pages
